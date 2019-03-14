@@ -1,0 +1,11 @@
+//Este é o arquivo principal da estrutura do projeto.
+//Aqui importamos os outros arquivos do projeto conforme necessario.
+
+@import 'theme/theme';
+@import 'mixins/mixins';
+@import 'functions/functions';
+@import 'components/components';
+
+body{
+  font-size: 14pt;
+}
